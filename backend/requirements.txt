@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+python-multipart
+tensorflow
+pillow
+rembg
+tf-keras
+matplotlib
+numpy
+python-dotenv
+langchain-community
+langchain-huggingface
+chromadb
+openai
+sentence-transformers
